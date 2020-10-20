@@ -1,0 +1,13 @@
+D:\JP\Demos\exemplo-multi-projetos\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.exe
+D:\JP\Demos\exemplo-multi-projetos\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.deps.json
+D:\JP\Demos\exemplo-multi-projetos\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.runtimeconfig.json
+D:\JP\Demos\exemplo-multi-projetos\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.runtimeconfig.dev.json
+D:\JP\Demos\exemplo-multi-projetos\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.dll
+D:\JP\Demos\exemplo-multi-projetos\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.pdb
+D:\JP\Demos\exemplo-multi-projetos\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.csprojAssemblyReference.cache
+D:\JP\Demos\exemplo-multi-projetos\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.AssemblyInfoInputs.cache
+D:\JP\Demos\exemplo-multi-projetos\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.AssemblyInfo.cs
+D:\JP\Demos\exemplo-multi-projetos\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.csproj.CoreCompileInputs.cache
+D:\JP\Demos\exemplo-multi-projetos\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.dll
+D:\JP\Demos\exemplo-multi-projetos\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.pdb
+D:\JP\Demos\exemplo-multi-projetos\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.genruntimeconfig.cache
